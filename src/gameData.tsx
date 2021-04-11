@@ -16,7 +16,7 @@ export type ZapQuake = {
 
 // prettier-ignore
 export const DATA_BUILDINGS: Building[] = [
-  { id: "18", name: "Wall", hp: [300,500,700,900,1400,2000,2500,3000,4000,5500,7000,8500,10000,11500,13000] },
+  { id: "18", name: "Wall", hp: [300,500,700,900,1400,2000,2500,3000,4000,5500,7000,8500,10000,11500] },
 ];
 
 // prettier-ignore
